@@ -47,12 +47,12 @@ disableImageOptimization = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -115,13 +115,13 @@ disableImageOptimization = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyCH_xGhkFtehy2F7FAabgh5CAsIZbLU_pc"
+  authDomain = "mon-blog-6fbe6.firebaseapp.com"
+  projectId = "mon-blog-6fbe6"
+  storageBucket = "mon-blog-6fbe6.appspot.com"
+  messagingSenderId = "1031163265899"
+  appId = "1:1031163265899:web:571ac5bc24a9a678d0c22e"
+  measurementId = "G-WL1YNW0YLN"
 
 [fathomAnalytics]
   # site = "ABC12345"
