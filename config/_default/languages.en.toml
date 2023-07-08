@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Marvin Durot"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+   name = "Marvin Durot"
+   image = "img/avatar.jpg"
+   headline = "Fullstack web developer"
+   bio = "Fullstack web developer who loves open source projects, beers and mountains."
+   links = [
+    { email = "marvin.durot@posteo.me" },
+    { github = "https://github.com/marvindurot" },
+    { linkedin = "https://linkedin.com/in/marvindurot" },     
+    { reddit = "https://reddit.com/user/marvindurot" },
+    { stack-overflow = "https://stackoverflow.com/users/userid/marvindurot" },
+    { twitter = "https://twitter.com/durotmarvin" },
+  ]
