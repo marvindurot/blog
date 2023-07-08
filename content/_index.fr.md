@@ -1,0 +1,1 @@
+> Apprendre et comprendre les nouvelles technologies du Web est palpitant mais travailler en équipe sur un projet de manière durable est un défi humain et technique bien plus grand et intéressant !
