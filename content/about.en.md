@@ -7,14 +7,16 @@ showReadingTime: false
 showDate: false
 ---
 
-Apprendre et comprendre les nouvelles technologies du Web est palpitant mais travailler en équipe sur un projet de manière durable est un défi humain et technique bien plus grand et intéressant !
+## Hello, I'm Marvin 👋
 
-L'essentiel de mon métier est de produire un code suffisamment lisible, évolutif et facile à maintenir pour que le cycle de vie du produit soit fiable et réponde correctement aux besoins du client. Cela consiste aussi à faire des choix techniques cohérents et adaptés (framework, architecture, design patterns, ...).  
-  
-Cette tâche complexe nécessite une approche pro-active basée sur le refactoring, une veille technologique permanente et une amélioration continue des outils et des processus qui permettent de travailler en équipe efficacement et dans la bonne humeur. Je pense que la communication est au cœur de notre métier.
+I am a french developper who loves open source projects. Currently I'm working on a low code product for a company called Elipce Solutions.
 
-Quand j'ai du temps libre, je joue les aventuriers : grimper sur de la glace ou descendre en rappel dans des grottes obscures ne me fait pas plus peur que de découvrir un nouveau framework de développement. J'aime donner du rythme à mes projets, tout comme j'apprécie la percussion et le houblon entre deux lignes de code.
+The essence of my job is to produce code that's readable, scalable and easy to maintain, so that the product lifecycle is reliable and meets customer needs. This also involves making coherent and appropriate technical choices (framework, architecture, design patterns, etc.).
 
-J'ai créé ce blog pour garder une trace des mes expériences et partager mes découvertes avec la communauté. Ce site ne contient aucune publicité, il s'agit de créations et de réflexions qui n'engagent que moi.
+This complex task needs a pro-active approach based on refactoring, constant technology watch and continuous improvement of tools and processes, enabling us to work as a team efficiently and in good spirits. I think communication is at the heart of our job.
 
-Pour plus d'informations, n'hésitez pas à me contacter par email. Vous pouvez également me retrouver sur les réseaux sociaux tels que Twitter, Github, Likedin ou Reddit.
+When I have free time, I play the adventurer: climbing on ice or visiting dark caves doesn't scare me any more than discovering a new development framework. I like to give rhythm to my projects, just as I enjoy percussion and crafted beers between two lines of code.
+
+I created this blog to keep track of my experiences and share my discoveries with the community. This site contains no advertising, just my own creations and thoughts.
+
+For more information, contact me by email. You can also find me on social networks such as Twitter, Github, Likedin or Reddit.
