@@ -8,7 +8,7 @@ draft: false
 
 # Bonjour à vous lecteur 🤟
 
-Si tu vous vous êtes retrouvé sur ce blog tout frais tout neuf, c'est probablement que vous vous êtes perdu sur Internet. Cet article est le premier d'une longue liste de sujets qui m'intéressent. J'écrirai sur le développement web bien entendu mais pas uniquement.
+Si vous vous êtes retrouvé sur ce blog tout frais tout neuf, c'est probablement que vous vous êtes perdu sur Internet. Cet article est le premier d'une longue liste de sujets qui m'intéressent. J'écrirai sur le développement web bien entendu mais pas uniquement.
 
 Si comme moi et tant d'autres développeurs vous avez un jour appris un language de programmation, vous avez forcément codé votre premier test avec un message de ce type :  "Hello World". 
 
