@@ -2,7 +2,7 @@
 title: "Démarrer avec WinterCMS dans VS Code sur Docker"
 description: "Apprenez comment démarrer un nouveau projet WinterCMS dans l'éditeur VS Code sur un environement conteneurisé"
 tags: ["docker", "vscode", "wintercms", "laravel", "devcontainer", "xdebug"]
-date: 2023-07-08T16:51:19+02:00
+date: 2023-07-11T16:51:19+02:00
 showTableOfContents: true
 draft: false
 ---

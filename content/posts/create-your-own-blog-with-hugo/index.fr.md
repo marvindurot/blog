@@ -2,7 +2,7 @@
 title: "Créer votre propre blog avec Hugo"
 description: "Apprenez comment créer et héberger gratuitement votre blog avec Hugo."
 tags: ["hugo", "github", "devops"]
-date: 2023-07-08T16:51:19+02:00
+date: 2023-07-09T16:51:19+02:00
 showTableOfContents: true
 draft: false
 
