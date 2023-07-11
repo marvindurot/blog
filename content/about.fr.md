@@ -9,7 +9,7 @@ sharingLinks: false
 ---
 ## Bonjour, je m'appelle Marvin 👋
 
-Je travaille actuellement chez Elipce Solutions à Valence (France) en tant que développeur web fullstack où j'élabore une solution low-code permettant de digitaliser les processus d'une entreprise.
+Je travaille actuellement pour Elipce Solutions à Valence (France) en tant que développeur web fullstack où j'élabore une solution low-code permettant de digitaliser les processus d'une entreprise.
 
 L'essentiel de mon métier est de produire un code lisible, évolutif et facile à maintenir pour que le cycle de vie du produit soit fiable et réponde correctement aux besoins du client. Cela consiste aussi à faire des choix techniques cohérents et adaptés (framework, architecture, design patterns, ...).
   
