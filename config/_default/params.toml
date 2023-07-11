@@ -47,8 +47,8 @@ disableImageOptimization = true
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateUpdated = false
   showAuthor = true
   showHero = true
@@ -115,13 +115,13 @@ disableImageOptimization = true
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyCH_xGhkFtehy2F7FAabgh5CAsIZbLU_pc"
-  authDomain = "mon-blog-6fbe6.firebaseapp.com"
-  projectId = "mon-blog-6fbe6"
-  storageBucket = "mon-blog-6fbe6.appspot.com"
-  messagingSenderId = "1031163265899"
-  appId = "1:1031163265899:web:571ac5bc24a9a678d0c22e"
-  measurementId = "G-WL1YNW0YLN"
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
 
 [fathomAnalytics]
   # site = "ABC12345"
