@@ -161,7 +161,7 @@ Look up for the extension and click it, it will show a list and enable Debug, th
 
 ![Alt text](browser-xdebug.png)
 
-And we are ready! We have our VS Code done with this config asnd ready to debug.
+And we are ready! We have our VS Code done with this config and ready to debug.
 
 ### Debug
 
